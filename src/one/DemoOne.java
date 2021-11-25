@@ -10,6 +10,7 @@ public class DemoOne {
 	public static void addNum(int i, int x) {
 		
 		System.out.println(i + x);
+		System.out.println(i+i+x+x);
 	}
 
 }
